@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5186696032014823339}
   - component: {fileID: 5186696032014823338}
+  - component: {fileID: 2877287916330556822}
   m_Layer: 11
   m_Name: DetectionZone
   m_TagString: Untagged
@@ -44,3 +45,15 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2877287916330556822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5186696032014823341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7004d2f2210941478812082802ef0d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
